@@ -1,0 +1,1 @@
+To launch terminal open file in directory ./configs/main/launch.bat

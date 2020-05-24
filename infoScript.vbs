@@ -1,0 +1,7 @@
+x = msgbox("Starting infoScript Community || PowerShell compile",0+16,"infoScript Community")
+r = msgbox("InfoScript: |Connect db / compiler POWERSHELL x64|",0+15,"infoScript Community")
+h = msgbox("InfoScript: |MySQL_Guard [ false ] |",0+15,"infoScript Community")
+j = msgbox("InfoScript: |Scripts = [Count: 4]|",0+15,"infoScript Community")
+k = msgbox("InfoScript: |Connection code : 19.x1048d|",0+15,"infoScript Community")
+p = msgbox("InfoScript: |Main base MySQL coding [end] ",0+16,"infoScript Community")
+l = msgbox("InfoScript: |Fast_Mode : True [ \n operate \n]|",0+16,"infoScript Community")

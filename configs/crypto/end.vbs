@@ -1,0 +1,1 @@
+x = msgbox("Crypto scripting end his job",0+16,"Crypto")
