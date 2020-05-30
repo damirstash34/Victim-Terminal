@@ -7,7 +7,7 @@
 
   Launch file /configs/main/launch.bat
   
-  See computer token in file computer_token.exe
+  See computer token in file computer_token.exe and type in victim_loic.bat script in line number 2.
   
   Start  *victim_loic.bat*  and launch file /Victim Scripter/start.bat
   
