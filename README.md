@@ -7,6 +7,8 @@
 
   Launch file /configs/main/launch.bat
   
+  See computer token in file computer_token.exe
+  
   Start  *victim_loic.bat*  and launch file /Victim Scripter/start.bat
   
   You can see connection info in file /Victim Scripter/info.vbs
