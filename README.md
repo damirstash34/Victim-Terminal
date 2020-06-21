@@ -1,3 +1,5 @@
+[![Builded on Windows Batch](https://img.shields.io/badge/Builded%20on-Windows%20Batch-brightgreen.svg)](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BA%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D1%84%D0%B0%D0%B9%D0%BB)
+
 # Victim-Terminal
 
   *Only Windows!
